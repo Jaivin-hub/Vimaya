@@ -1,0 +1,110 @@
+{
+  "mode": "built-in image generation",
+  "assets": [
+    {
+      "id": "j01",
+      "path": "public/images/products/j01.webp",
+      "prompt": "Use case: product-mockup. Reference is a jewellery tray with sixteen pairs in a 4 by 4 arrangement. Create ONE independent premium ecommerce product photograph of ONLY the pair in row 1 column 1 (top left): gold-tone ornate pointed/floral stud with lattice bell jhumka and black bead fringe. Precisely preserve its silhouette, metal colour, stones and dangling black beads from reference; no other jewellery. Show exactly two matching earrings, fully visible, front-facing, side by side on pale blush pink matte studio background with very subtle soft shadow. Elegant realistic macro product photography, generous clean margins, portrait 3:4, crisp details. Remove tray, hands, plants, people, text, branding. Do not invent additional design elements. Save image for website use."
+    },
+    {
+      "id": "j02",
+      "path": "public/images/products/j02.webp",
+      "prompt": "Use case: product-mockup. Reference image is a tray with sixteen jewellery pairs arranged 4 rows by 4 columns. Generate ONE independent catalog photograph of ONLY the pair at row 1 column 2: large round dark-stone floral stud, broad gold lattice dome with black bead fringe. Exactly two matching earrings. Preserve the referenced pair's silhouette, metal tone, stones, ornament and bead colour faithfully. Pale blush pink matte background, soft diffused studio light, delicate natural shadows. Front-facing complete pair centred with generous margins, portrait 3:4. Premium realistic product photograph. No other products, no tray, no hands, no people, no text. Do not redesign."
+    },
+    {
+      "id": "j03",
+      "path": "public/images/products/j03.webp",
+      "prompt": "Use case: product-mockup. Reference image is a tray with sixteen jewellery pairs arranged 4 rows by 4 columns. Generate ONE independent catalog photograph of ONLY the pair at row 1 column 3: small circular black-stone stud, smaller gold lattice bell with black bead fringe. Exactly two matching earrings. Preserve the referenced pair's silhouette, metal tone, stones, ornament and bead colour faithfully. Pale blush pink matte background, soft diffused studio light, delicate natural shadows. Front-facing complete pair centred with generous margins, portrait 3:4. Premium realistic product photograph. No other products, no tray, no hands, no people, no text. Do not redesign."
+    },
+    {
+      "id": "j04",
+      "path": "public/images/products/j04.webp",
+      "prompt": "Use case: product-mockup. Reference image is a tray with sixteen jewellery pairs arranged 4 rows by 4 columns. Generate ONE independent catalog photograph of ONLY the pair at row 1 column 4: gold teardrop stud with dark centre, rounded openwork gold bell with black bead fringe. Exactly two matching earrings. Preserve the referenced pair's silhouette, metal tone, stones, ornament and bead colour faithfully. Pale blush pink matte background, soft diffused studio light, delicate natural shadows. Front-facing complete pair centred with generous margins, portrait 3:4. Premium realistic product photograph. No other products, no tray, no hands, no people, no text. Do not redesign."
+    },
+    {
+      "id": "j05",
+      "path": "public/images/products/j05.webp",
+      "prompt": "Use case: product-mockup. Reference image is a tray with sixteen jewellery pairs arranged 4 rows by 4 columns. Generate ONE independent catalog photograph of ONLY the pair at row 2 column 1: small gold floral stud, ornate paisley/peacock-shaped link and gold bell with black bead fringe. Exactly two matching earrings. Preserve the referenced pair's silhouette, metal tone, stones, ornament and bead colour faithfully. Pale blush pink matte background, soft diffused studio light, delicate natural shadows. Front-facing complete pair centred with generous margins, portrait 3:4. Premium realistic product photograph. No other products, no tray, no hands, no people, no text. Do not redesign."
+    },
+    {
+      "id": "j06",
+      "path": "public/images/products/j06.webp",
+      "prompt": "Use case: product-mockup. Reference image is a tray with sixteen jewellery pairs arranged 4 rows by 4 columns. Generate ONE independent catalog photograph of ONLY the pair at row 2 column 2: round silver floral stud, silver embellished bell with black bead fringe. Exactly two matching earrings. Preserve the referenced pair's silhouette, metal tone, stones, ornament and bead colour faithfully. Pale blush pink matte background, soft diffused studio light, delicate natural shadows. Front-facing complete pair centred with generous margins, portrait 3:4. Premium realistic product photograph. No other products, no tray, no hands, no people, no text. Do not redesign."
+    },
+    {
+      "id": "j07",
+      "path": "public/images/products/j07.webp",
+      "prompt": "Use case: product-mockup. Reference is a jewellery tray with 4 rows and 4 columns of pairs. Isolate ONLY row 2 column 3: round gold embossed floral stud, gold bell with black bead fringe. Generate a standalone product photograph of exactly this matching pair, two earrings, with its original silhouette and decoration unchanged. Preserve colours and distinctive stud, dome, links and fringe. No other pieces. Centre fully visible pair against pale blush pink matte studio background, realistic soft shadow, diffused light, sharp macro details, generous margins, portrait 3:4. No tray, hands, people, text or logos. Do not redesign."
+    },
+    {
+      "id": "j08",
+      "path": "public/images/products/j08.webp",
+      "prompt": "Use case: product-mockup. Reference is a jewellery tray with 4 rows and 4 columns of pairs. Isolate ONLY row 2 column 4: small dark-centred silver floral stud, open circular silver link and elongated silver bell with black beads. Generate a standalone product photograph of exactly this matching pair, two earrings, with its original silhouette and decoration unchanged. Preserve colours and distinctive stud, dome, links and fringe. No other pieces. Centre fully visible pair against pale blush pink matte studio background, realistic soft shadow, diffused light, sharp macro details, generous margins, portrait 3:4. No tray, hands, people, text or logos. Do not redesign."
+    },
+    {
+      "id": "j09",
+      "path": "public/images/products/j09.webp",
+      "prompt": "Use case: product-mockup. Reference is a jewellery tray with 4 rows and 4 columns of pairs. Isolate ONLY row 3 column 1: small dark circular stud, silver lattice dome and black bead fringe. Generate a standalone product photograph of exactly this matching pair, two earrings, with its original silhouette and decoration unchanged. Preserve colours and distinctive stud, dome, links and fringe. No other pieces. Centre fully visible pair against pale blush pink matte studio background, realistic soft shadow, diffused light, sharp macro details, generous margins, portrait 3:4. No tray, hands, people, text or logos. Do not redesign."
+    },
+    {
+      "id": "j10",
+      "path": "public/images/products/j10.webp",
+      "prompt": "Use case: product-mockup. Reference is a jewellery tray with 4 rows and 4 columns of pairs. Isolate ONLY row 3 column 2: pointed ornate gold floral stud, gold tiered bell and white pearl-like bead fringe. Generate a standalone product photograph of exactly this matching pair, two earrings, with its original silhouette and decoration unchanged. Preserve colours and distinctive stud, dome, links and fringe. No other pieces. Centre fully visible pair against pale blush pink matte studio background, realistic soft shadow, diffused light, sharp macro details, generous margins, portrait 3:4. No tray, hands, people, text or logos. Do not redesign."
+    },
+    {
+      "id": "j11",
+      "path": "public/images/products/j11.webp",
+      "prompt": "Use case: product-mockup. Reference is a jewellery tray with 4 rows and 4 columns of pairs. Isolate ONLY row 3 column 3: pointed silver teardrop floral stud, tiered silver bell and white pearl-like bead fringe. Generate a standalone product photograph of exactly this matching pair, two earrings, with its original silhouette and decoration unchanged. Preserve colours and distinctive stud, dome, links and fringe. No other pieces. Centre fully visible pair against pale blush pink matte studio background, realistic soft shadow, diffused light, sharp macro details, generous margins, portrait 3:4. No tray, hands, people, text or logos. Do not redesign."
+    },
+    {
+      "id": "j12",
+      "path": "public/images/products/j12.webp",
+      "prompt": "Use case: product-mockup. The reference tray shows 4 rows and 4 columns of jewellery pairs. Isolate ONLY the matching pair at row 3 column 4: dark lotus-shaped stud outlined in gold, gold openwork bell with black beads. Exactly two earrings, complete and side by side. Preserve its original shape, structure, ornament, metal and bead colours, using the reference as truth, without redesigning. Premium realistic ecommerce macro photograph against plain pale blush pink matte studio background with delicate soft shadows and diffused natural light. Centre the pair with generous margins, portrait 3:4. No other jewellery, tray, hands, plants, people, text or logo."
+    },
+    {
+      "id": "j13",
+      "path": "public/images/products/j13.webp",
+      "prompt": "Use case: product-mockup. The reference tray shows 4 rows and 4 columns of jewellery pairs. Isolate ONLY the matching pair at row 4 column 1: pale silver floral stud with elongated silver oval/openwork chandelier drop and tiny pale dangling beads. Exactly two earrings, complete and side by side. Preserve its original shape, structure, ornament, metal and bead colours, using the reference as truth, without redesigning. Premium realistic ecommerce macro photograph against plain pale blush pink matte studio background with delicate soft shadows and diffused natural light. Centre the pair with generous margins, portrait 3:4. No other jewellery, tray, hands, plants, people, text or logo."
+    },
+    {
+      "id": "j14",
+      "path": "public/images/products/j14.webp",
+      "prompt": "Use case: product-mockup. The reference tray shows 4 rows and 4 columns of jewellery pairs. Isolate ONLY the matching pair at row 4 column 2: ornate gold rectangular temple-style stud, elaborate gold filigree bell with long tiny pale bead fringe. Exactly two earrings, complete and side by side. Preserve its original shape, structure, ornament, metal and bead colours, using the reference as truth, without redesigning. Premium realistic ecommerce macro photograph against plain pale blush pink matte studio background with delicate soft shadows and diffused natural light. Centre the pair with generous margins, portrait 3:4. No other jewellery, tray, hands, plants, people, text or logo."
+    },
+    {
+      "id": "j15",
+      "path": "public/images/products/j15.webp",
+      "prompt": "Use case: product-mockup. The reference tray shows 4 rows and 4 columns of jewellery pairs. Isolate ONLY the matching pair at row 4 column 3: long fishhook with tapered gold cone and rounded gold lattice bell drop. Exactly two earrings, complete and side by side. Preserve its original shape, structure, ornament, metal and bead colours, using the reference as truth, without redesigning. Premium realistic ecommerce macro photograph against plain pale blush pink matte studio background with delicate soft shadows and diffused natural light. Centre the pair with generous margins, portrait 3:4. No other jewellery, tray, hands, plants, people, text or logo."
+    },
+    {
+      "id": "j16",
+      "path": "public/images/products/j16.webp",
+      "prompt": "Use case: product-mockup. The reference tray shows 4 rows and 4 columns of jewellery pairs. Isolate ONLY the matching pair at row 4 column 4: black lotus-shaped stud edged in silver, silver textured dome with white bead fringe. Exactly two earrings, complete and side by side. Preserve its original shape, structure, ornament, metal and bead colours, using the reference as truth, without redesigning. Premium realistic ecommerce macro photograph against plain pale blush pink matte studio background with delicate soft shadows and diffused natural light. Centre the pair with generous margins, portrait 3:4. No other jewellery, tray, hands, plants, people, text or logo."
+    },
+    {
+      "id": "s01",
+      "path": "public/images/products/s01.webp",
+      "prompt": "Use case: product-mockup. Reference screenshot shows a woman holding a folded saree. Create ONE standalone premium catalog photograph of ONLY the folded saree she is HOLDING, NOT the green saree she wears. Product: charcoal black body with gold motifs, copper-gold border, red edge and red tassels. Preserve the reference fabric colour, motif pattern and scale, border bands, edge and tassels as closely as possible. Remove woman, hands and all screenshot interface. Present the folded rectangle gracefully laid flat on a pale blush-pink matte studio surface at a very slight diagonal, complete border visible, subtle realistic shadow, soft diffused light, fine textile texture. No extra accessories, no text, no invented designs. Product centred with generous margins, portrait 3:4. Avoid unfolding areas not shown in reference."
+    },
+    {
+      "id": "s02",
+      "path": "public/images/products/s02.webp",
+      "prompt": "Use case: product-mockup. Reference screenshot shows a woman holding a folded saree. Create ONE standalone premium catalog photograph of ONLY the folded saree she is HOLDING, NOT the green saree she wears. Product: magenta pink body with gold motifs, copper-gold border, vivid pink/red edge and tassels. Preserve the reference fabric colour, motif pattern and scale, border bands, edge and tassels as closely as possible. Remove woman, hands and all screenshot interface. Present the folded rectangle gracefully laid flat on a pale blush-pink matte studio surface at a very slight diagonal, complete border visible, subtle realistic shadow, soft diffused light, fine textile texture. No extra accessories, no text, no invented designs. Product centred with generous margins, portrait 3:4. Avoid unfolding areas not shown in reference."
+    },
+    {
+      "id": "s03",
+      "path": "public/images/products/s03.webp",
+      "prompt": "Use case: product-mockup. Reference screenshot shows a woman holding a folded saree. Create ONE standalone premium catalog photograph of ONLY the folded saree she is HOLDING, NOT the green saree she wears. Product: slate blue body with gold motifs, pale gold border, turquoise edge and turquoise tassels. Preserve the reference fabric colour, motif pattern and scale, border bands, edge and tassels as closely as possible. Remove woman, hands and all screenshot interface. Present the folded rectangle gracefully laid flat on a pale blush-pink matte studio surface at a very slight diagonal, complete border visible, subtle realistic shadow, soft diffused light, fine textile texture. No extra accessories, no text, no invented designs. Product centred with generous margins, portrait 3:4. Avoid unfolding areas not shown in reference."
+    },
+    {
+      "id": "s04",
+      "path": "public/images/products/s04.webp",
+      "prompt": "Use case: product-mockup. Reference screenshot shows a woman holding a folded saree. Create ONE standalone premium catalog photograph of ONLY the folded saree she is HOLDING, NOT the green saree she wears. Product: orange coral body with small gold motifs, gold border, deep magenta edge and tassels. Preserve the reference fabric colour, motif pattern and scale, border bands, edge and tassels as closely as possible. Remove woman, hands and all screenshot interface. Present the folded rectangle gracefully laid flat on a pale blush-pink matte studio surface at a very slight diagonal, complete border visible, subtle realistic shadow, soft diffused light, fine textile texture. No extra accessories, no text, no invented designs. Product centred with generous margins, portrait 3:4. Avoid unfolding areas not shown in reference."
+    },
+    {
+      "id": "s05",
+      "path": "public/images/products/s05.webp",
+      "prompt": "Use case: product-mockup. Reference screenshot shows a woman holding a folded saree. Create ONE standalone premium catalog photograph of ONLY the folded saree she is HOLDING, NOT the green saree she wears. Product: ivory white body with gold motifs, copper-gold border, red edge and red tassels. Preserve the reference fabric colour, motif pattern and scale, border bands, edge and tassels as closely as possible. Remove woman, hands and all screenshot interface. Present the folded rectangle gracefully laid flat on a pale blush-pink matte studio surface at a very slight diagonal, complete border visible, subtle realistic shadow, soft diffused light, fine textile texture. No extra accessories, no text, no invented designs. Product centred with generous margins, portrait 3:4. Avoid unfolding areas not shown in reference."
+    }
+  ]
+}
